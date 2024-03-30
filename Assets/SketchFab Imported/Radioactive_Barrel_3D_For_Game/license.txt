@@ -1,0 +1,11 @@
+Model Information:
+* title:	Radioactive Barrel 3D For Game
+* source:	https://sketchfab.com/3d-models/radioactive-barrel-3d-for-game-3f968546a8b043c299d00ce7a58e5612
+* author:	SonceDark (https://sketchfab.com/Magarichh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Radioactive Barrel 3D For Game" (https://sketchfab.com/3d-models/radioactive-barrel-3d-for-game-3f968546a8b043c299d00ce7a58e5612) by SonceDark (https://sketchfab.com/Magarichh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

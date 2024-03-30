@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stack Of Bricks (Game Ready / 2K PBR)
+* source:	https://sketchfab.com/3d-models/stack-of-bricks-game-ready-2k-pbr-1a9092ab6cb243d990fddad116f04825
+* author:	Meerschaum Digital (https://sketchfab.com/meerschaumdigital)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stack Of Bricks (Game Ready / 2K PBR)" (https://sketchfab.com/3d-models/stack-of-bricks-game-ready-2k-pbr-1a9092ab6cb243d990fddad116f04825) by Meerschaum Digital (https://sketchfab.com/meerschaumdigital) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

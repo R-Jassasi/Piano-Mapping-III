@@ -1,0 +1,11 @@
+Model Information:
+* title:	Barrel
+* source:	https://sketchfab.com/3d-models/barrel-2dd2154ae2154113a200509a4328891d
+* author:	dfgcfxcr (https://sketchfab.com/dfgcfxcr)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Barrel" (https://sketchfab.com/3d-models/barrel-2dd2154ae2154113a200509a4328891d) by dfgcfxcr (https://sketchfab.com/dfgcfxcr) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)

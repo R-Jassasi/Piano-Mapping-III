@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old vilage house_LOD_0
+* source:	https://sketchfab.com/3d-models/old-vilage-house-lod-0-065cb734d68446ec90e3b43da86a5530
+* author:	Nikolay Fedorov (https://sketchfab.com/tomich516)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old vilage house_LOD_0" (https://sketchfab.com/3d-models/old-vilage-house-lod-0-065cb734d68446ec90e3b43da86a5530) by Nikolay Fedorov (https://sketchfab.com/tomich516) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

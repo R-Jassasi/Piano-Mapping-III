@@ -1,0 +1,11 @@
+Model Information:
+* title:	Abandoned Barn
+* source:	https://sketchfab.com/3d-models/abandoned-barn-f7c323a9c43c4c57b4439a401dc86c39
+* author:	Jerrad Lancaster (https://sketchfab.com/jlancaster)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Abandoned Barn" (https://sketchfab.com/3d-models/abandoned-barn-f7c323a9c43c4c57b4439a401dc86c39) by Jerrad Lancaster (https://sketchfab.com/jlancaster) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
